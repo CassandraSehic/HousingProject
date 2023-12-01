@@ -31,7 +31,7 @@ The analysis involves creating five regression models using 2016 data, exploring
 
 ## Technical Details
 - Analysis conducted using `readxl`, `dplyr`, `ggplot2`, and `lubridate` libraries in R.
-- Data sourced from an Excel file "Final Project-BU629.xlsx".
+- Data sourced from an Excel file "HousingProjectData.xlsx".
 - Extensive use of linear regression modeling and data visualization techniques.
 
 ## Conclusion
